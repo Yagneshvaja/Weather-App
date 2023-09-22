@@ -1,4 +1,4 @@
-const apikey = "a6a29db8c01e0f63b20ae9e00e7325dd";
+const apikey = "Create and Enter Your Own  API From this link: https://openweathermap.org/";
 
 const weatherDataEl = document.getElementById("weather-data");
 
